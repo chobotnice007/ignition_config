@@ -1,0 +1,6 @@
+variant: fcos
+version: 1.4.0
+passwd:
+  users: 
+    - name: core
+      password_hash: 1.e75k7YzjueQ
